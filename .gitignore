@@ -1,0 +1,9 @@
+# Claude Code settings (contains API keys)
+.claude/settings.json
+.claude/settings.local.json
+
+# IDE
+.idea/
+
+# Node
+node_modules/
